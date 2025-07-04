@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    " b",
+    " b"
+  ],
+  "key": {
+    "a": "funnytools:funnix",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "funnytools:funny_hoe",
+    "count": 1
+  }
+}

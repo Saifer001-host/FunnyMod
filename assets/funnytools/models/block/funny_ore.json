@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "funnytools:block/funnixore",
+    "particle": "minecraft:block/orange_candle"
+  },
+  "render_type": "solid"
+}

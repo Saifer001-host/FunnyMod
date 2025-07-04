@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": "funnytools:funnix",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "funnytools:funny_pickaxe",
+    "count": 1
+  }
+}

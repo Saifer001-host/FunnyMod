@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 2.1,
+  "cookingtime": 100,
+  "ingredient": "funnytools:funny_ore",
+  "result": {
+    "id": "funnytools:funnix"
+  }
+}
